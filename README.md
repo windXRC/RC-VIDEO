@@ -1,2 +1,1 @@
-# practice-application
-练手项目
+视频网站
